@@ -3,7 +3,7 @@
     "meta": {
         "version": "PTDL_v1"
     },
-    "exported_at": "2019-10-19T19:41:37-04:00",
+    "exported_at": "2019-10-19T19:49:29-04:00",
     "name": "Forge Generic",
     "author": "parker@parkervcp.com",
     "description": "A generic egg for a forge modpack",
@@ -25,7 +25,7 @@
     "variables": [
         {
             "name": "modpack project ID",
-            "description": "The modpack project ID from the curseforge site on the pack page.\r\n\r\n(Ex. https:\/\/minecraft.curseforge.com\/projects\/sevtech-ages)",
+            "description": "The modpack project ID from the curseforge site on the pack page.\r\n\r\n(Ex. https:\/\/minecraft.curseforge.com\/projects\/sevtech-ages ID is 268208)",
             "env_variable": "MODPACK_ID",
             "default_value": "",
             "user_viewable": 1,
