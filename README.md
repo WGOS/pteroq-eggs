@@ -16,3 +16,7 @@ If you are reading this it looks like you are looking to add an egg to your serv
 6. Restart the daemon on your node before creating a server using the new egg(s).
 
 ## You must restart your daemon(s) after importing an egg
+
+## Games
+
+[Wreckfest](/wreckfest/)
